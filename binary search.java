@@ -11,7 +11,7 @@ public class Main
 	int flag=0;
 	int mid;
 	while(left<=right){
-	    int mid=(left+right)/2;
+	mid=(left+right)/2;
 	    if(ar[mid]==target){
 	        flag=1;
 	        break;
